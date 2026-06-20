@@ -14,6 +14,9 @@ data/
 ## Tools Used
 Microsoft Excel — Tables, Find & Replace, TRIM/CLEAN functions, Sort, Number Formatting, Cell Alignment, Currency Formatting
 
+## Related Projects
+- [SQL Sales Analysis](https://github.com/dedejacksona/sql-sales-analysis-decodelabs) — SQL queries on the same underlying dataset
+
 ## Cleaning Steps Performed
 
 | ID | Change | Impact | Status |
