@@ -16,6 +16,8 @@ Microsoft Excel — Tables, Find & Replace, TRIM/CLEAN functions, Sort, Number F
 
 ## Related Projects
 - [SQL Sales Analysis](https://github.com/dedejacksona/sql-sales-analysis-decodelabs) — SQL queries on the same underlying dataset
+- [SQL Sales Analysis](https://github.com/dedejacksona/sales-data-eda-decodelabs) — SQL queries on the same underlying dataset
+- [SQL Sales Analysis](https://github.com/dedejacksona/sales-data-visualization-decodelabs) — SQL queries on the same underlying dataset
 
 ## Cleaning Steps Performed
 
